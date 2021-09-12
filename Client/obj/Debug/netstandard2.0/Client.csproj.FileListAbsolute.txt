@@ -1,0 +1,16 @@
+C:\Users\Nick Petrenko\source\repos\Client\Client\bin\Debug\netstandard2.0\Client.deps.json
+C:\Users\Nick Petrenko\source\repos\Client\Client\bin\Debug\netstandard2.0\Client.dll
+C:\Users\Nick Petrenko\source\repos\Client\Client\bin\Debug\netstandard2.0\ref\Client.dll
+C:\Users\Nick Petrenko\source\repos\Client\Client\bin\Debug\netstandard2.0\Client.pdb
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\Client.csproj.AssemblyReference.cache
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\Client.AssemblyInfoInputs.cache
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\Client.AssemblyInfo.cs
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\Client.dll
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\ref\Client.dll
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\Client.pdb
+C:\Users\Nick Petrenko\source\repos\Client\Client\obj\Debug\netstandard2.0\OperationsPage.xaml.g.cs
